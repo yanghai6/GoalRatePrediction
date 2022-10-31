@@ -1,4 +1,4 @@
-# soccer
+# Soccer Goal Rate Prediction
 
 * Explored the data from Kaggle(https://www.kaggle.com/secareanualin/football- events (https://www.kaggle.com/secareanualin/football-events)),
  which contains 9074 games, 941009 events from soccer leagues: England, Spain, Germany, Italy, France from 2011/2012 season to 2016/2017 season.
